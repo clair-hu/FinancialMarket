@@ -1,0 +1,3 @@
+Andrew Carnegie said that you should give it away while you are still young because you've amassed all this wealth, what's going to happen to it? It's absurd the story that happens. 
+
+Young people make a lot of money when their talents are at their strongest. Then they get old and they don't know what to do anymore. They work until they die or they become self indulgent. And it ends up with their children. And then it ruins the children's life because now they have no purpose and they're just filthy rich.
