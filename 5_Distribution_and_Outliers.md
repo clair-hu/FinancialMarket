@@ -19,3 +19,13 @@ So, you can be deceived by a fat tailed distribution like the Cauchy into thinki
 ![Central Limit Theorem](Images/FM9.JPG "Central Limit Theorem")
 
 ![Normal vs Fated Tailed distribution](Images/FM10.JPG "Normal vs Fated Tailed distribution")
+
+The Cauchy distribution looks pretty much like the normal. It's a bell-shaped curve and it trails off but there's a subtle difference, that there are these rare very... they're not quite as rare as as the normal would suggest. The real world puts fat tails in our lives.
+
+----
+## What a history
+![Daily Stock Price Changes since 1928](Images/FM11.JPG "Daily Stock Price Changes since 1928")
+
+----
+## Outliers
+* Normal distribution with the same mean and standard deviation as this histogram says that the probability of a drop greater than 20% is equal to 3*10^-71.
